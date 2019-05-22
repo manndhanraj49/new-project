@@ -1,1 +1,3 @@
-echo "hello worl jbkj
+server:
+	image:nginx
+	image:ubuntu
