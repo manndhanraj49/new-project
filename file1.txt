@@ -1,3 +1,4 @@
 server:
 	image:nginx
-	image:ubuntu
+	image:centos
+
